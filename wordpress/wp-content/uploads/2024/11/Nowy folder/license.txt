@@ -1,0 +1,8 @@
+Model Information:
+* title:	Hand Watch
+* source:	https://sketchfab.com/3d-models/hand-watch-24577e403d9b42679ed822214b99f8c7
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
